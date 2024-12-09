@@ -1,0 +1,29 @@
+[
+    {
+        "id": 0,
+        "name": "Cháy lá",
+        "color": "Đỏ",
+        "suggest": ["Biện pháp canh tác: Sử dụng giống lúa kháng bệnh, bón phân cân đối, không bón thừa đạm",
+            "Biện pháp hóa học: Sử dụng các loại thuốc trừ vi khuẩn như Streptomycin, Kasugamycin theo hướng dẫn",
+            "Biện pháp sinh học: Sử dụng các chế phẩm sinh học để tăng cường sức đề kháng cho cây lúa"
+        ]
+    },
+    {
+        "id": 1,
+        "name": "Đốm nâu",
+        "color": "Vàng",
+        "suggest": ["Biện pháp canh tác: Sử dụng giống lúa kháng bệnh, bón phân cân đối, vệ sinh đồng ruộng sạch sẽ",
+            "Biện pháp hóa học: Sử dụng các loại thuốc diệt nấm như Iprodione, Propiconazole, Azoxystrobin",
+            "Biện pháp sinh học: Ngâm hạt giống trong nước nóng trước khi gieo để tiêu diệt nấm"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Đạo ôn",
+        "color": "Nâu",
+        "suggest": ["Biện pháp canh tác: Sử dụng giống lúa kháng bệnh, bón phân cân đối, vệ sinh đồng ruộng sạch sẽ",
+            "Biện pháp hóa học: Sử dụng các loại thuốc trừ nấm như Tricyclazole, Isoprothiolane",
+            "Biện pháp sinh học: Sử dụng các chế phẩm sinh học để tăng cường sức đề kháng cho cây lúa"
+        ]
+    }
+]
